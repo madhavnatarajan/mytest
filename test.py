@@ -1,3 +1,3 @@
 print('hello world')
 while True:
-    print
+    print ("Need to do this in college")
