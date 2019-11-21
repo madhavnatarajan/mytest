@@ -1,0 +1,124 @@
+enter a drug example:
+3                                        Analgesics
+13                                       Analgesics
+20                                       Analgesics
+21                                       Analgesics
+23                                       Analgesics
+26                                       Analgesics
+30                                       Analgesics
+31                                       Analgesics
+36                                       Analgesics
+45                                       Analgesics
+139                                  Antibacterials
+140                                  Antibacterials
+147                                  Antibacterials
+152                                  Antibacterials
+160                                  Antibacterials
+168                                  Antibacterials
+174                                  Antibacterials
+178                                  Antibacterials
+180                                  Antibacterials
+182                                  Antibacterials
+188                                  Antibacterials
+197                                  Antibacterials
+199                                  Antibacterials
+201                                  Antibacterials
+207                                  Antibacterials
+208                                  Antibacterials
+246                                  Antibacterials
+248                                  Antibacterials
+284                                  Antibacterials
+292                                  Antibacterials
+                           ...                     
+1579                              Ophthalmic Agents
+1581                              Ophthalmic Agents
+1586                              Ophthalmic Agents
+1591                              Ophthalmic Agents
+1594                              Ophthalmic Agents
+1600                              Ophthalmic Agents
+1660             Respiratory Tract/Pulmonary Agents
+1662             Respiratory Tract/Pulmonary Agents
+1696             Respiratory Tract/Pulmonary Agents
+1701             Respiratory Tract/Pulmonary Agents
+1703             Respiratory Tract/Pulmonary Agents
+1714             Respiratory Tract/Pulmonary Agents
+1718             Respiratory Tract/Pulmonary Agents
+1721             Respiratory Tract/Pulmonary Agents
+1741                          Sleep Disorder Agents
+1746    Therapeutic Nutrients/Minerals/Electrolytes
+1759    Therapeutic Nutrients/Minerals/Electrolytes
+1761    Therapeutic Nutrients/Minerals/Electrolytes
+1790    Therapeutic Nutrients/Minerals/Electrolytes
+1792    Therapeutic Nutrients/Minerals/Electrolytes
+1793    Therapeutic Nutrients/Minerals/Electrolytes
+1794    Therapeutic Nutrients/Minerals/Electrolytes
+1795    Therapeutic Nutrients/Minerals/Electrolytes
+1796    Therapeutic Nutrients/Minerals/Electrolytes
+1797    Therapeutic Nutrients/Minerals/Electrolytes
+1798    Therapeutic Nutrients/Minerals/Electrolytes
+1799    Therapeutic Nutrients/Minerals/Electrolytes
+1800    Therapeutic Nutrients/Minerals/Electrolytes
+1801    Therapeutic Nutrients/Minerals/Electrolytes
+1802    Therapeutic Nutrients/Minerals/Electrolytes
+Name: usp_category, Length: 140, dtype: object 3                                       diclofenac sodium
+13                                    flurbiprofen sodium
+20                                       ibuprofen sodium
+21                                       ibuprofen sodium
+23                                    indomethacin sodium
+26                                      ketoprofen sodium
+30                                   meclofenamate sodium
+31                                   meclofenamate sodium
+36                                        naproxen sodium
+45                                        tolmetin sodium
+139                                      cefazolin sodium
+140                              cefazolin sodium hydrate
+147                                      cefoxitin sodium
+152                                     cefuroxime sodium
+160                                     cefotaxime sodium
+168                                    ceftriaxone sodium
+174                                    amoxicillin sodium
+178                                     ampicillin sodium
+180     ampicillin sodium and sulbactam sodium for inj...
+182                                   piperacillin sodium
+188                                   penicillin g sodium
+197                                  dicloxacillin sodium
+199                                      nafcillin sodium
+201                                      oxacillin sodium
+207                                      ertapenem sodium
+208                  imipenem hydrate - cilastatin sodium
+246                                  sulfacetamide sodium
+248                                   sulfadiazine sodium
+284                      chloramphenicol sodium succinate
+292                                     fosfomycin sodium
+                              ...                        
+1579                        prednisolone sodium phosphate
+1581                        prednisolone sodium succinate
+1586                        prednisolone sodium metazoate
+1591                                     bromfenac sodium
+1594                                    diclofenac sodium
+1600                                  flurbiprofen sodium
+1660             triamcinolone acetonide sodium phosphate
+1662                                   montelukast sodium
+1696                                      cromolyn sodium
+1701                          theophylline sodium acetate
+1703                        theophylline sodium glycinate
+1714                                  epoprostenol sodium
+1718                         treprostinil monosodium salt
+1721                           acetylcysteine sodium salt
+1741                                       sodium oxybate
+1746                         sodium polystyrene sulfonate
+1759                                      sodium fluoride
+1761                                 sodium fluoride f 18
+1790      potassium citrate - sodium citrate hydrate mixt
+1792                                       sodium acetate
+1793                                   sodium bicarbonate
+1794                               dried sodium carbonate
+1795                             sodium carbonate hydrate
+1796                                      sodium chloride
+1797                    isotonic sodium chloride solution
+1798                                       sodium lactate
+1799                      sodium ferric gluconate complex
+1800                          sodium phosphate, monobasic
+1801                            sodium phosphate, dibasic
+1802                     dibasic sodium phosphate hydrate
+Name: drug_example, Length: 140, dtype: object
